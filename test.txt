@@ -1,6 +1,6 @@
 
 #commiting from command line
 
-#creating merge conflict in master
+#creating merge conflict in dev
 
 #editing using github url
