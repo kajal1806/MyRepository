@@ -2,3 +2,5 @@
 #testin file for qa 
 
 #creating merge conflict in master
+
+#editing using github
