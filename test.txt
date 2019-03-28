@@ -3,4 +3,4 @@
 
 #creating merge conflict in master
 
-#editing using github
+#editing using github url
