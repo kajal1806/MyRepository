@@ -2,3 +2,5 @@
 #commiting from command line
 
 #creating merge conflict in master
+
+#editing using github url
