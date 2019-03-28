@@ -1,4 +1,4 @@
 
-#testin file for qa 
+#commiting from command line
 
 #creating merge conflict in master
